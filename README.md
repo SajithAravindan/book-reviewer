@@ -71,7 +71,7 @@ Link to presentation [(https://docs.google.com/presentation/d/10mNnZ41kgi2nFrGSV
 
 <img src='/public/imgs/demo.png'>
 
-Deployed Application URL: https://calm-stream-60888-077b07d80633.herokuapp.com/
+Deployed Application URL: https://blooming-thicket-72514-75b0ef205a97.herokuapp.com/
 
 GitHub URL: https://github.com/SajithAravindan/bookreviewer.git
 
