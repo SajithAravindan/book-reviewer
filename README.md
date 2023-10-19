@@ -73,6 +73,8 @@ Link to presentation [(https://docs.google.com/presentation/d/10mNnZ41kgi2nFrGSV
 
 Deployed Application URL: https://calm-stream-60888-077b07d80633.herokuapp.com/
 
+GitHub URL: https://github.com/SajithAravindan/bookreviewer.git
+
 ## License
 
 * Please refer to the LICENSE in the repo. <a href="https://github.com/SajithAravindan/E-commerce_APP/blob/main/LICENSE">(MIT License)</a>
