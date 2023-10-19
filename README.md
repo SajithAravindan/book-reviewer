@@ -69,7 +69,7 @@ Link to presentation [(https://docs.google.com/presentation/d/10mNnZ41kgi2nFrGSV
 
 ## Demo
 
-<img src='/public/imgs/Demo.png'>
+<img src='/public/imgs/demo.png'>
 
 Deployed Application URL: https://calm-stream-60888-077b07d80633.herokuapp.com/
 
